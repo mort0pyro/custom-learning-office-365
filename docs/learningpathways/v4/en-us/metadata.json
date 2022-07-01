@@ -160,6 +160,15 @@
   ],
   "Categories": [
     {
+      "Id": "32898d35-cd98-4ad6-970a-c2f13b4e75af",
+      "Name": "Zeitreel Training",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "SubCategories": []
+    },
+    {
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
       "Name": "Get started",
       "Image": "",
